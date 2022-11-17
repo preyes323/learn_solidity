@@ -1,0 +1,1 @@
+# Repo for learning Solidity from [The Complete Solidity Course - Blockchain - Zero to Expert](https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/)
